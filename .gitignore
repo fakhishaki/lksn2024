@@ -1,1 +1,5 @@
-sagemaker_notebook/*
+# Ignore the entire sagemaker_notebook folder
+sagemaker_notebook/
+
+# Ignore the main.ipynb file
+main.ipynb
