@@ -1,4 +1,8 @@
 # Requirement
+
+## Set Up nodejs
+`npm init`
+
 ## You need setting environment<br>
 `ENDPOINT=your endpoint`<br/>
 `CLIENT_ID=your client_id`<br/>
